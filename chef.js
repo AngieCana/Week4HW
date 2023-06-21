@@ -18,9 +18,9 @@ const chef = new Chef();
 
 //creating dinners
 
-const dinner1 = chef.constructor.createDinner("Salad", "Steak", "Chocolate Cake");
-const dinner2 = chef.constructor.createDinner("Soup", "Fish", "Cheesecake");
-const dinner3 = chef.constructor.createDinner("Alfredo", "Pasta", "Tiramasu");
+const dinner1 = chef.constructor.createDinner("Ceasar Salad", "T-Bone Steak", "Fudge Lava Cake");
+const dinner2 = chef.constructor.createDinner("Chicken Soup", "Catfish", "Strawberry Cheesecake");
+const dinner3 = chef.constructor.createDinner("Chicken Alfredo", "Pasta a la Pene", "Key Lime Pie");
 
 //logging dinners
 
